@@ -1,2 +1,1 @@
-# kottans.github.io
-The list of practical tasks for kottans frontend 2022.
+HTML and CSS Popup practical task #5 for kottans.org.
